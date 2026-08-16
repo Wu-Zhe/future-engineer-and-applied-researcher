@@ -1,7 +1,6 @@
 **What should a future software engineer or an applied researcher focus on?
 **
 
-
 Given rapid advances in LLMs, AI agents, and loop engineering, the critical skills for future software engineers and applied researchers will shift from executing individual tasks toward the following capabilities.
 
         1. Build deep fundamentals and domain expertise.
