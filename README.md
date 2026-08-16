@@ -35,4 +35,4 @@ Key actions
 
         **Preserve your own learning loop.** Use AI aggressively, but don't outsource understanding and critical thinking. Predict before asking, inspect failures, explain solutions from first principles, and occasionally solve important problems yourself. 
         
-        **Communicate with precision.** Human-human communication and human-AI system communication will become more critical as execution becomes cheap and fast.**
+        **Communicate with precision.** Human-human communication and human-AI system communication will become more critical as execution becomes cheap and fast.
