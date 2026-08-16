@@ -2,8 +2,8 @@
 **
 
 
-Given the rapid advance in LLMs, AI agents, and loop engineering, future software engineers or applied researchers can focus on developing the following set of skills to maintain their value.
-        
+Given rapid advances in LLMs, AI agents, and loop engineering, the critical skills for future software engineers and applied researchers will shift from executing individual tasks toward the following capabilities.
+
         1. Build deep fundamentals and domain expertise.
         Understand enough to reason independently, recognize bad assumptions, and know when AI is wrong.
         
@@ -15,11 +15,12 @@ Given the rapid advance in LLMs, AI agents, and loop engineering, future softwar
         
         4. Progress from task ownership to problem ownership.
         Don't merely execute assigned work; understand the domain deeply enough to identify what should be solved next.
+                Take a step back and ask "Does solving this problem really matter?"
         
         5. Develop taste and judgment.
         Learn to distinguish technically possible work from important work, promising hypotheses from noise, and meaningful results from misleading ones.
         
-        6. Design organizations of agents and loops.
+        6. Design organizations of agents and loops. Don't directly manage 1000s of agents.
         Decompose difficult problems, coordinate specialized AI workers, aggregate evidence, resolve disagreements, and maintain quality at scale.
         
         7. Learn to allocate intelligence.
