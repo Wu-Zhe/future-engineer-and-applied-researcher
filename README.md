@@ -14,7 +14,8 @@ Given rapid advances in LLMs, AI agents, and loop engineering, the critical skil
         Specify goals, context, tools, memory/state, verification, recovery, budgets, and stopping conditions.
         
         4. Progress from task ownership to problem ownership.
-        Don't merely execute assigned work; understand the domain deeply enough to identify what should be solved next.
+        Don't merely execute assigned work. Understand the domain deeply enough to identify what should be solved next.
+        
         Take a step back and ask "Does solving this problem really matter?"
         
         5. Develop taste and judgment.
