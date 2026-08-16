@@ -27,4 +27,4 @@ Given the rapid advance in LLMs, AI agents, and loop engineering, future softwar
 
 We should stop measuring juniors primarily by experiments run, code shipped, or papers implemented, and start deliberately training "problem → loop → evidence → decision" ownership.
 
-**Preserve your own learning loop. Use AI aggressively, but don't outsource understanding. Predict before asking, inspect failures, explain solutions from first principles, and occasionally solve important problems yourself.**
+**Preserve your own learning loop. Use AI aggressively, but don't outsource understanding and critical thinking. Predict before asking, inspect failures, explain solutions from first principles, and occasionally solve important problems yourself.**
