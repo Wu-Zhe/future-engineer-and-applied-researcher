@@ -15,18 +15,21 @@ Given rapid advances in LLMs, AI agents, and loop engineering, the critical skil
         4. Progress from task ownership to problem ownership.
         Don't merely execute assigned work. Understand the domain deeply enough to identify what should be solved next.
         
-        Take a step back and ask "Does solving this problem really matter?"
+        Become a philosopher, or a part-time one. Take a step back and ask, "Does solving this problem really matter?"
         
         5. Develop taste and judgment.
         Learn to distinguish technically possible work from important work, promising hypotheses from noise, and meaningful results from misleading ones.
 
-        Building intuition in an AI-first Environment. Since traditional hands-on coding tasks are increasingly automated, intuition is no longer built by doing basic code, data analysis, system design or applied research. Juniors build taste by manually breaking down AI-generated failures, conducting post-mortems on edge cases, and testing agent decisions against real-world domain constraints.
+        Building intuition in an AI-first environment. As routine coding, data analysis, system design, and applied research become increasingly automated, juniors can no longer rely on sheer volume of hands-on implementation to develop intuition. Juniors build taste by manually breaking down AI-generated failures, conducting post-mortems on edge cases, and testing agent decisions against real-world domain constraints.
         
         6. Design organizations of agents and loops. Don't directly manage 1000s of agents.
         Decompose difficult problems, coordinate specialized AI workers, aggregate evidence, resolve disagreements, and maintain quality at scale.
         
         7. Learn to allocate intelligence.
         As execution becomes cheap, decide where thousands of agent-hours, experiments, and compute should be invested.
+
+        8. Polish communication skills.
+        Human-human communication and human-AI system communication will become more critical as execution becomes cheap and fast.
 
 We should stop measuring juniors primarily by experiments run, code shipped, or papers implemented, and start deliberately training "problem → loop → evidence → decision" ownership.
 
