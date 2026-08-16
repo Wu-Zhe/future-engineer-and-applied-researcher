@@ -38,7 +38,7 @@ As execution becomes cheap, decide where thousands of agent-hours, experiments, 
 
 ---
 
-**We should stop measuring juniors primarily by experiments run, code shipped, or papers implemented, and start deliberately training "problem â†’ loop â†’ evidence â†’ decision" ownership.**
+**We should stop measuring juniors primarily by experiments run, code shipped, or papers implemented, and start deliberately training "problem -> loop -> evidence -> decision" ownership.**
 
 ## Key actions
 
