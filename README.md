@@ -30,4 +30,9 @@ Given rapid advances in LLMs, AI agents, and loop engineering, the critical skil
 
 We should stop measuring juniors primarily by experiments run, code shipped, or papers implemented, and start deliberately training "problem → loop → evidence → decision" ownership.
 
-**Preserve your own learning loop. Use AI aggressively, but don't outsource understanding and critical thinking. Predict before asking, inspect failures, explain solutions from first principles, and occasionally solve important problems yourself. And of course, always improve communication skills. Human-human communication and human-AI system communication will become more critical as execution becomes cheap and fast.**
+Key actions
+
+
+**Preserve your own learning loop.** Use AI aggressively, but don't outsource understanding and critical thinking. Predict before asking, inspect failures, explain solutions from first principles, and occasionally solve important problems yourself. 
+
+**Communicate with precision.** Human-human communication and human-AI system communication will become more critical as execution becomes cheap and fast.**
